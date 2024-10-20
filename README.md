@@ -1,4 +1,4 @@
-## Ola! Eu sou o Davi Oliveira
+## Ola! Eu sou Davi Oliveira
 
 
 👨🏾‍💻 Hoje trabalho com back-end | 📚 Sou estudante de Sistemas de Informação | 🏭 Estagiario na Vale
