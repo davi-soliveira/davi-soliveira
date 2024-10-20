@@ -5,8 +5,8 @@
 
   <div>
     <a href='https://github/davi-soliveira'>
-      <img  align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=davi-soliveira&layout=compact&langs_count=16&theme=dark'/>
-      <img align='center' height='250em' src="https://github-readme-stats.vercel.app/api?username=davi-soliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img  heigth='180em'src='https://github-readme-stats.vercel.app/api/top-langs/?username=davi-soliveira&layout=compact&langs_count=16&theme=dark'/>
+      <img  height='180em' src="https://github-readme-stats.vercel.app/api?username=davi-soliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </div>
 
   <div style="display: inline_block"><br>
